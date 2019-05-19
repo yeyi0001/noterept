@@ -1,0 +1,7 @@
+* activiti
+** DONE 验证网关和直接连线共存的流程节点能否通过连线条件判断走向
+   CLOSED: [2019-05-19 周日 20:13]
+** DONE bpmn对象转换成xml文档并输出到文件
+   CLOSED: [2019-05-19 周日 15:17]
+** TODO 阅读java awt api，寻找提高分辨率的方法
+** TODO 通过delete方法，探究撤回的实现
